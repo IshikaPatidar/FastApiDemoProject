@@ -1,0 +1,4 @@
+/venv/
+/fastapi_demo/sqldiff.exe
+/fastapi_demo/sqlite3.exe
+/fastapi_demo/sqlite3_analyzer.exe
